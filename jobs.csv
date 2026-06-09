@@ -1,0 +1,10 @@
+title,city,min_salary,max_salary,skills
+Python开发工程师,深圳,15000,25000,"Python,Django,MySQL"
+数据分析师,深圳,12000,20000,"Python,SQL,Excel"
+Python后端开发,广州,13000,22000,"Python,Flask,Redis"
+自动化测试工程师,东莞,10000,16000,"Python,Selenium,Pytest"
+Python爬虫工程师,深圳,14000,23000,"Python,requests,BeautifulSoup"
+数据分析师,广州,11000,18000,"Python,pandas,Tableau"
+Python开发,东莞,12000,19000,"Python,FastAPI,PostgreSQL"
+实施工程师,深圳,9000,14000,"SQL,Linux,沟通"
+Python实习生,深圳,6000,9000,"Python,基础"
